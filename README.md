@@ -1,4 +1,4 @@
-# ThreatIntelligence
+# Threat Intelligence
 
 <table>
   <tbody>
