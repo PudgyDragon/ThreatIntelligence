@@ -92,6 +92,14 @@
         <p>Free API for high-confidence IP addresses gathered from attackers attempting to access their private honeypot network.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://urlscan.io/">urlscan.io</a>
+      </td>
+      <td>
+        <p>URL and Website Scanner</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
