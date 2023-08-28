@@ -95,8 +95,6 @@
     <tr>
       <td>
         <a href="https://urlscan.io/">urlscan.io</a>
-      </td>
-      <td>
         <p>URL and Website Scanner</p>
       </td>
     </tr>
