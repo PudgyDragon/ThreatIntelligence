@@ -105,6 +105,12 @@ Comprehensive list of threat intelligence sources. In no way is this a complete 
         <p>Signature-based YARA rules provided by Elastic Security.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShadowWhisperer/BlockLists">ShadowWhisperer</a>
+        <p>Public Github repository of potentially bad websites.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
