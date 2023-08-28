@@ -35,7 +35,8 @@
     </tr>
     <tr>
       <td>
-        
+        <a href="https://github.com/TheHive-Project/Cortex">Cortex</a>
+        <p>Open source software for analyzing IP and email addresses, URLs, domain names, and hashes using a Web interface.</p>
       </td>
     </tr>
   </tbody>
