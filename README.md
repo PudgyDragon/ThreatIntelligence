@@ -44,6 +44,24 @@
         <p>Open source software for analyzing IP and email addresses, URLs, domain names, and hashes using a Web interface.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/intelowlproject/IntelOwl/">Intel Owl</a>
+        <p>Open source intelligence solution to get threat intelligence data about a specific file, IP, or domain from an API.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://feodotracker.abuse.ch/">Feodo Tracker</a>
+        <p>Project of abuse.ch with the goal of sharing botnet C&C servers associated with Dridex, Emotet (Heodo), TrickBot, QakBot (QuakBot/Qbot), and BazarLoader (BazarBackdoor).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/SupportIntelligence/Icewater">Icewater</a>
+        <p>Open source YARA rules for detecting malware and malicious files.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
