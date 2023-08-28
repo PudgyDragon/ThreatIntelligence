@@ -95,7 +95,13 @@
     <tr>
       <td>
         <a href="https://urlscan.io/">urlscan.io</a>
-        <p>URL and Website Scanner</p>
+        <p>URL and Website Scanner.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/elastic/protections-artifacts/tree/main/yara">Elastic Security YARA Rules</a>
+        <p>Signature-based YARA rules provided by Elastic Security.</p>
       </td>
     </tr>
   </tbody>
