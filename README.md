@@ -86,6 +86,12 @@
         <p>Platform for organizing observables, IOCs, TTPs, and knowledge on threats in a single repository.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://intercept.sh/threatlists/">Fast Intercept</a>
+        <p>Free API for high-confidence IP addresses gathered from attackers attempting to access their private honeypot network.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
