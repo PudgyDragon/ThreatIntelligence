@@ -62,6 +62,30 @@
         <p>Open source YARA rules for detecting malware and malicious files.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://openphish.com/index.html">OpenPhish</a>
+        <p>Phishing intelligence provided through feeds and a database of URLs used in phishing campaigns.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.exploitalert.com/browse-exploit.html">Exploitalert</a>
+        <p>Provides a database of recent exploits; able to be used as an API.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cyware.com/resources/threat-intel-feeds">Cyware Threat Feeds</a>
+        <p>Free threat intelligence feeds provided by Cyware.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://yeti-platform.github.io/">Yeti</a>
+        <p>Platform for organizing observables, IOCs, TTPs, and knowledge on threats in a single repository.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
