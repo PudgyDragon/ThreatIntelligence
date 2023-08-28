@@ -4,33 +4,38 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.cisa.gov/cybersecurity-training-exercises">Automated Indicator Sharing by CISA</a>
+        <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/automated-indicator-sharing-ais">Automated Indicator Sharing by CISA</a>
+        <p>Service offered by the Cybersecurity and Infrastructure Security Agency (CISA) that provides a real time exchange of cyber threat indicators and defensives measures between public and private sector organizations.</p>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://otx.alienvault.com/">AlientVault</a>
+        <p>Global intelligence community that enables the open collaboration of emerging threats, attack methods, and malicious actors for great security.</p>
       </td>      
     </tr>
     <tr>
       <td>
         <a href="https://www.misp-project.org/">MISP Open Source Threat Intelligence Platform</a>
+        <p>Open source threat intelligence and sharing platform.</p>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/OpenCTI-Platform/opencti">OpenCTI Platform</a>
+        <p>Open source platform that allows organizations to manage their cyber threat intelligence knowledge and observables.</p>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.phishtank.com/developer_info.php">PhishTank</a>
+        <a href="https://www.phishtank.com/">PhishTank</a>
+        <p>Site for submitting and verifying phishing websites.</p>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://securitytrails.com/">Security Trails</a>
-        <p>Search tool for WHOIS, DNS history, and subdomains. </p>
+        <p>Search tool for WHOIS, DNS history, and subdomains.</p>
       </td>
     </tr>
     <tr>
