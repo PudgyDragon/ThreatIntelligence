@@ -1,4 +1,5 @@
 # Threat Intelligence
+Comprehensive list of threat intelligence sources. In no way is this a complete list of all threat intelligence sources publically available; it will grow along the way. I will try to keep the list updated, as sites can sometimes change.
 
 <table>
   <tbody>
