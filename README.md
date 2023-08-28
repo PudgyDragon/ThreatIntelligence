@@ -22,6 +22,22 @@
         <a href="https://github.com/OpenCTI-Platform/opencti">OpenCTI Platform</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.phishtank.com/developer_info.php">PhishTank</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://securitytrails.com/">Security Trails</a>
+        <p>Search tool for WHOIS, DNS history, and subdomains. </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        
+      </td>
+    </tr>
   </tbody>
 </table>
 
