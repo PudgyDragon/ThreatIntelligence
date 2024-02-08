@@ -5,6 +5,12 @@ Comprehensive list of threat intelligence sources. In no way is this a complete 
   <tbody>
     <tr>
       <td>
+        <a href="https://bazaar.abuse.ch/">MalwareBazaar</a>
+        <p>MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/automated-indicator-sharing-ais">Automated Indicator Sharing by CISA</a>
         <p>Service offered by the Cybersecurity and Infrastructure Security Agency (CISA) that provides a real time exchange of cyber threat indicators and defensives measures between public and private sector organizations.</p>
       </td>
